@@ -1,0 +1,28 @@
+
+body {
+background-color:#E0FFFF;
+margin: auto;
+
+}
+.menu {
+
+  background-color: #D8BFD8;
+  font-size: 20px;
+
+
+
+}
+
+#rodapePrincipal {
+  text-align: center;
+}
+.rodape {
+  background-color: #D8BFD8;
+}
+.conteudo {
+border-style: groove;
+border-color: #808080;
+border-width: 1px;
+border-spacing: inherit;
+
+}
