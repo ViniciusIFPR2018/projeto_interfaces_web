@@ -1,18 +1,35 @@
+.complemento{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.complemento p, h4, h5{
+  padding-left: 4%;
+}
+.complemento h3{
+  font-weight: bold;
+}
 body {
-background-color:#FFFFFF;
-margin: auto;
+  border-left: 250px solid black;
+  border-right: 250px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+#cabeçalho{
+  background-color: #F4A460;
 
 }
-
-
-.titulo {
-
-  background-color: #FFE4E1;
-  font-size: 20px;
-
-
+.menu{
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 0px;
+  margin-left: 0px;
+  min-height: 0px;
+  margin-bottom: 0px;
+  padding-left: 10%;
+  padding-right: 10%;
 }
-.sobrenome h1{
-margin-top: -20px;
-
+.nome{
+  padding-top: 6%;
+  padding-left: 2%;
+  flex-grow: 1;
 }
