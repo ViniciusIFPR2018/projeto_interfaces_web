@@ -7,20 +7,17 @@
 }
 .complemento h3{
   font-weight: bold;
-}
-body {
-  border-left: 250px solid black;
-  border-right: 250px solid black;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
-}
-#cabeçalho{
-  background-color: #F4A460;
 
+}
+
+#cabeçalho{
+  background-color: #98FB98	;
+margin: 0;
 }
 .menu{
   display: -ms-flexbox;
   display: flex;
+  margin-bottom: 10px;
   margin-right: 0px;
   margin-left: 0px;
   min-height: 0px;
@@ -32,4 +29,18 @@ body {
   padding-top: 6%;
   padding-left: 2%;
   flex-grow: 1;
+}
+
+.inf{
+  margin-top: 50px;
+}
+.curriculo{
+  width: 820px;
+  margin: 0 auto;
+  background-color: white;
+  height: 800px;
+
+}
+body {
+  background-color: black;
 }
